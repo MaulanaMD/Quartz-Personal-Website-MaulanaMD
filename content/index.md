@@ -1,7 +1,6 @@
 ---
-title: Selamat datang!
+title: Maulana M. D.
 ---
-
 # Selamat datang!
 
 Website ini adalah website pribadi dari Maulana Muhammad D., yang juga menggunakan alias Mei/Thea di internet.
