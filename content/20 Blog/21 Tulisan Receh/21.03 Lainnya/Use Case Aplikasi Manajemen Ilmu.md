@@ -229,7 +229,7 @@ aliases:
 
 Template ini didasarkan kepada penjelasan artikel Masterclass tentang [bagaimana cara menulis deskripsi karakter](https://www.masterclass.com/articles/how-to-write-vivid-character-descriptions), ditambah dengan input dari seorang kawan. Deskripsi singkat dari apa saja yang perlu dituliskan di tiap headings ditulis dengan *italics*, sehubungan dengan tampilan tema Obsidian yang kupakai yang memberikan warna-warna berbeda untuk styling paragraf dan heading.
 
-Sama seperti yang disebutkan oleh Vanessa Glau, proses awal dari penulisan cerita seperti ini adalah menuliskan sesegera mungkin ide yang terbesit seputar worldbuilding/karakter/ide cerita, lalu setelah memiliki gambaran yang dirasa cukup seputar arah plot yang diinginkan, memulai proses penulisan cerita. Vanessa Glau juga menyebutkan tentang Plotter vs. Seater, yang aku rasa bisa dijembatani perbedaannya dengan workflow seperti ini
+Sama seperti yang disebutkan oleh Vanessa Glau, proses awal dari penulisan cerita seperti ini adalah menuliskan sesegera mungkin ide yang terbesit seputar worldbuilding/karakter/ide cerita, lalu setelah memiliki gambaran yang dirasa cukup seputar arah plot yang diinginkan, memulai proses penulisan cerita. Vanessa Glau juga menyebutkan tentang Plotter vs. Seater, yang aku rasa bisa dijembatani perbedaannya dengan workflow seperti ini.
 ## Obsidian sebagai aplikasi manajemen dan penulisan artikel
 
 Artikel ini dibuat di Obsidian, dengan menggunakan formatting Markdown yang bisa dicopas ke editor Wordpress secara langsung. Bagian yang nggak kompatibel cuma di bagian attachment (yang harus diupload secara manual), dan (sepertinya) snippet code untuk template yang ditaruh di dalam notes artikel ini.
