@@ -13,6 +13,7 @@ Kategori tulisan yang saat ini tersedia diantaranya:
 
 - #portofolio - untuk artikel portofolio.
 - #blog - untuk artikel blog.
+- #pinandhita - untuk proyek yang aku inisiasi, Pinandhita 論理型 (Ronrigata) (Saat ini masih hanya berbahasa inggris).
 
 to-do:
 - [x] setup sistem Johnny Decimals untuk manajemen file dan folder konten
@@ -20,6 +21,6 @@ to-do:
 - [x] impor konten dari sumber-sumber yang sudah dipublikasikan sebelumnya
 - [x] membenahi indeks
 	- ~~mungkin bisa menggunakan dataview (kalau memungkinkan untuk digunakan lewat Quartz)~~
-	- Sementara ini memakai sistem tags yang sudah tersedia di Quartz
+	- [x] Sementara ini memakai sistem tags yang sudah tersedia di Quartz
 - Memperbanyak isi laman website, seperti entri untuk Pinandhita maupun blog
 - Mengisi laman pranala luar, seperti kontak sosmed.
