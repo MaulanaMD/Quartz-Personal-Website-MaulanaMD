@@ -13,14 +13,17 @@ Kategori tulisan yang saat ini tersedia diantaranya:
 
 - #portofolio - untuk artikel portofolio.
 - #blog - untuk artikel blog.
-- #pinandhita - untuk proyek yang aku inisiasi, Pinandhita 論理型 (Ronrigata) (Saat ini masih hanya berbahasa inggris).
+
+Untuk laman terkait proyek Pinandhita Ronrigata, silahkan cek laman utamanya di sini: [[41.01 Pinandhita Ronrigata|Pinandhita Ronrigata]]. Indeks untuk menjelajah sublaman di bawah naungan Pinandhita sudah tersedia di sana.
 
 to-do:
 - [x] setup sistem Johnny Decimals untuk manajemen file dan folder konten
 	- [x] sehubungan dengan ini, menentukan apa saja isi dari website ini
 - [x] impor konten dari sumber-sumber yang sudah dipublikasikan sebelumnya
-- [x] membenahi indeks
+- [ ] membenahi indeks
 	- ~~mungkin bisa menggunakan dataview (kalau memungkinkan untuk digunakan lewat Quartz)~~
 	- [x] Sementara ini memakai sistem tags yang sudah tersedia di Quartz
+	- [ ] Membuat laman indeks untuk kategori-kategori lain.
 - Memperbanyak isi laman website, seperti entri untuk Pinandhita maupun blog
 - Mengisi laman pranala luar, seperti kontak sosmed.
+- Mengubah beberapa pengaturan laman web dari yang disediakan secara default oleh Quartz
