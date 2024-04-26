@@ -1,5 +1,5 @@
 ---
-title: "[2024.04.25] You Can't Put Your Egg at Two Basket at the Same Time"
+title: "[2024.04.25] You Can't Put Your Egg Into Two Basket at the Same Time"
 tags:
   - "#blog/lainnya"
   - etos-hidup
