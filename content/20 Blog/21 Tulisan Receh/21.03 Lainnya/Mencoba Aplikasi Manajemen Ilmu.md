@@ -75,7 +75,7 @@ Verdict: Bawah. tl;dr pake Notion kalo ga peduli sama FOSS atau butuh fitur kola
 
 Saranku, kalau ingin nyoba aplikasi yang fiturnya seperti Notion, untuk keperluan individu AnyType sudah lebih dari cukup, atau kalau mau produk yang lebih matang dan ga sebegitu peduli sama FOSS ya pake Notion. Kalau untuk keperluan kelompok/*collaborative effort* seperti buat kerjaan bersama rekan kerja lain, untuk sekarang cuma Notion (proprietary) yang menyediakan fitur kolaboratif. Anytype sendiri baru menjadwalkan fitur kolaboratif untuk kuartal akhir 2024. Nggak bisa ngasih komentar banyak seputar mending Notion atau Anytype karena belum nyoba Notion sendiri.
 
-![[Anytype-Roadmap.png]]
+![[Anytype Roadmap.png]]
 > Proyeksi fitur mendatang yang bakal diluncurkan AnyType.
 
 Alasan kenapa nggak pake proprietary software dan lebih fokus ke FOSS sih karena salah satu pertimbangan saat itu nyari yang bisa digunakan buat *collaborative effort*, meskipun nantinya juga ga dipake.
@@ -100,7 +100,7 @@ Untuk aplikasi Obsidian-like, aku sempat (dan sekarang) pake baik aplikasi propr
 
 Manajemen catatan aplikasi Obsidian-like bergantung kepada hubungan antar catatan dengan menggunakan link (judul dari catatan lain yang dimasukkan kepada sebuah catatan) dan tags berupa tagar ataupun fitur *properties > tags*. Yang membuat aplikasi Obsidian-like sangat *powerful* adalah fitur tampilan hubungan antar catatan dengan ***Graphs*** dan ***Canvas***.
 
-![[Obisidian-Graph.png]]
+![[Obisidian Graph.png]]
 > Contoh manajemen artikel blog yang aku buat di Obsidian. Itu notes DnD nyempil anjime
 
 Kalau Graphs sudah bisa dilihat di gambar di atas, Canvas kurang lebih kayak bikin mading dari notesmu. Cocok buat manajemen visual yang lebih granular karena nggak bergantung ke sistem tags, tapi aku pribadi belum nyoba karena belum ngerasa butuh. Fitur Graphs dan Canvas sendiri cuma ada di Obsidian dan Logseq.

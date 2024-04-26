@@ -6,14 +6,14 @@ tags:
 ![[Banner Web.webp]]
 > Difoto di Trawas, Mojokerto.
 
-Website ini adalah website pribadi dari Maulana Muhammad D., yang juga menggunakan alias Mei/Thea di internet.
+Ini adalah laman web pribadi dari Maulana Muhammad Diansyahbani, yang juga menggunakan alias Mei/Thea di internet.
 
 *Laman pembuka ini masih berupa stub.*
 
 Silahkan menggunakan fitur pencarian untuk mencari artikel sesuai dengan kata kunci tertentu. Alternatifnya, silahkan klik link menuju laman indeks yang disediakan di bawah ini.
 
-- [[10.01 Index Portofolio]]
-- [[20.01 Index Blog]]
+- [[10.01 Index Portofolio|Indeks Portofolio]]
+- [[20.01 Index Blog|Indeks Blog]]
 
 Untuk laman terkait proyek Pinandhita Ronrigata, silahkan cek laman utamanya di sini: [[41.01 Pinandhita Ronrigata|Pinandhita Ronrigata]]. Laman ini sekaligus berfungsi sebagai indeks laman terkait Pinandhita Ronrigata.
 
