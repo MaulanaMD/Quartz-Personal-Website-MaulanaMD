@@ -5,6 +5,7 @@ tags:
   - teknologi
 ---
 ![[Banner Backup.webp]]
+> waktu install ulang kemarin - *debian masterrace*
 
 Artikel singkat, karena kepikiran topik ini, dan sepertinya yang paling perlu untuk ditulis saat ini.
 
