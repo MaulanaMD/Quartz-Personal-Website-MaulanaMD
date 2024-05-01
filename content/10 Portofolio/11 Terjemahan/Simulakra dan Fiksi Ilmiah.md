@@ -24,6 +24,7 @@ Sama dengan artikel sebelumnya yang merupakan hasil terjemahan dari terjemahan, 
 **...The simulacrum is never that which conceals the truth—it is the truth which conceals that there is none. The simulacrum is true.** - ***Jean Baudrillard**, Simulacra and Simulation*
 
 ---
+
 ## Simulakra dan Fiksi Ilmiah
 
 Tiga tingkatan simulakra:
