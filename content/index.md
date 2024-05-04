@@ -15,7 +15,7 @@ Silahkan menggunakan fitur pencarian untuk mencari artikel sesuai dengan kata ku
 - [[10.01 Index Portofolio|Indeks Portofolio]]
 - [[20.01 Index Blog|Indeks Blog]]
 
-Untuk laman terkait proyek Pinandhita Ronrigata, silahkan cek laman utamanya di sini: [[41.01 Pinandhita Ronrigata|Pinandhita Ronrigata]]. Laman ini sekaligus berfungsi sebagai indeks laman terkait Pinandhita Ronrigata.
+Laman Pinandhita 論理型 (dibaca Ronrigata) sekarang dapat diakses di https://www.pinandhitaronrigata.my.id, yang sama-sama dibangun dengan menggunakan [Quartz](https://quartz.jzhao.xyz/), seperti laman pribadi ini.
 
 to-do:
 - [x] setup sistem Johnny Decimals untuk manajemen file dan folder konten
