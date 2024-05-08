@@ -3,7 +3,11 @@ title: Tentang Saya
 tags:
   - meta
 ---
+![[Foto Memed.webp|350]]
+
 Perkenalkan, namaku Maulana Muhammad Diansyahbani. Kalau ingin menyapa, panggil saja Memed. Presensiku di dunia maya bisa dicari dengan nama MMd-, Mei/Amasaki Mei, Thea, ataupun MaulanaMuhammad.
+
+---
 
 ## Tautan Cepat
 
@@ -12,7 +16,16 @@ Perkenalkan, namaku Maulana Muhammad Diansyahbani. Kalau ingin menyapa, panggil 
 	2. [[01 About Me#Terjemah|Terjemah]]
 	3. [[01 About Me#Jejepangan|Jejepangan]]
 	4. [[01 About Me#Penulisan|Penulisan]]
-	5. [[01 About Me#Hobi Lainnya|Hobi Lainnya]]
+	5. [[01 About Me#Psikologi dan Self-Help|Psikologi dan Self-Help]]
+	6. [[01 About Me#Obsidian|Obsidian]]
+	7. [[01 About Me#Hobi dan Minat Lainnya|Hobi dan Minat Lainnya]]
+2. [[01 About Me#Kesibukan|Kesibukan]]
+	1. [[01 About Me#Pinandhita 論理型|Pinandhita 論理型]]
+	2. [[01 About Me#Freelancing|Freelancing]]
+	3. [[01 About Me#Scanlation|Scanlation]]
+	4. [[01 About Me#Penulisan Cerita|Penulisan Cerita]]
+
+---
 
 ## Minat
 
@@ -42,11 +55,62 @@ Sebenarnya sudah dari jaman SMA aku punya keinginan untuk memiliki blog ataupun 
 
 Selain tulisan blog, aku punya niatan untuk menulis cerita fiksi, baik berupa *fanfiction* dari media yang aku ikuti maupun cerita orisinil. Kedepannya, rilisan utama dari cerita-cerita ini akan aku tempatkan di akun Trakteerku, jadi kalau ingin mendukung penulisan ini, silahkan kunjungi https://trakteer.id/maulana-md. Beberapa contoh cerita gratis akan dibuat secara berkala, salah satunya juga untuk memberi gambaran bagaimana penulisan ceritaku.
 
-### Hobi Lainnya
+### Psikologi dan Self-Help
 
-Kalau bingung mencari topik pembicaraan denganku, kamu bisa memulai dengan beberapa hobi di bawah ini.
+Ketertarikanku dengan dunia psikologi dimotori oleh satu hal: Skizofrenia yang aku miliki sekarang ini.
 
-Aku suka masak, meskipun untuk saat ini lebih kepada masak untuk perorangan/pribadi alih-alih masak untuk orang banyak. *To the point* nonton video masak/makanan dari [J. Kenji Lopez-alt](https://www.youtube.com/@JKenjiLopezAlt) (the goat) sudah jadi kegiatan sehari-hari, baik untuk white noise ataupun mengisi waktu kalau ga ngapa-ngapain.
+Aku sudah lumayan terbuka dengan hal ini (beberapa kali aku posting foto setelah ambil obat di Rumah Sakit di akun utama Facebookku), cuman saat ini memang nggak sebegitu sering juga. Mulai sadar kalau ini bukan sesuatu yang seharusnya dibuka di ranah publik, tapi alasanku terbuka untuk berbicara tentang hal ini (termasuk seputar depresi, yang lebih umum dimiliki orang) adalah untuk menormalisasikan kerangka dukungan/*support system* yang sehat bagi mereka yang merasa punya gejala disabilitas ataupun penyakit mental, baik klinis ataupun tidak.
+
+Silahkan tanya-tanya seputar keluhan depresif ataupun masalah lain, seperti *anger issues* kalau kalian memang terbuka untuk membicarakannya ke orang yang relatif dekat di sosmed/teman internet. Aku cukup percaya diri untuk menyimpan keluhan kalian sebagai sebuah rahasia. Paling tidak, aku bisa ngasih saran seputar bagaimana menangani keluhan tersebut, dan kalau nggak bisa, bagaimana mendapatkan penanganan profesional melalui psikolog ataupun psikiater baik melalui BPJS ataupun dokter privat. Mungkin suatu saat akan aku buatkan entri artikel tersendiri seputar penanganan-penanganan ini.
+
+### Obsidian
+
+Sejak mencoba-coba aplikasi tulis menulis (perjalanannya bisa dibaca di [[Mencoba Aplikasi Manajemen Ilmu|sini]]) dan jatuh hati ke Obsidian, kurang lebih aku bisa dibilang sebagai sales nomor satu Obsidian sebagai solusi untuk berbagai hal. Perlu sistem manajemen keseharian? Cek. Perlu aplikasi catatan yang mudah digunakan dan punya banyak kustomisasi? Cek. Perlu aplikasi menulis, untuk penelitian ataupun konten daring? Cek. Dan yang lain-lain.
+
+### Hobi dan Minat Lainnya
+
+Kalau bingung mencari topik pembicaraan denganku, kamu bisa memulai dengan beberapa topik di bawah ini.
+
+Aku suka masak, meskipun untuk saat ini lebih kepada masak untuk perorangan/pribadi alih-alih masak untuk orang banyak. *To the point* nonton video masak/makanan dari [J. Kenji Lopez-alt](https://www.youtube.com/@JKenjiLopezAlt) *(the goat)* sudah jadi kegiatan sehari-hari, baik sebagai white noise ataupun untuk mengisi waktu kalau lagi nggak ngapa-ngapain.
 
 Meskipun nggak sebegitu aktif lagi, aku masih tertarik dengan dunia *rhythm game*, baik arcade maupun handheld. Ini termasuk lagu-lagunya, dan juga chart yang ada - seringkali fokusnya terlalu banyak ke *"boss song" tier chart*. Saat ini yang paling sering aku mainkan adalah *Project Sekai (JP)*, dan itupun udah jarang-jarang.
 
+Aku punya hobi fotografi, tapi lebih suka jadi juru foto daripada difoto. Objek yang paling sering aku foto adalah lingkungan sekitar, baik berupa pemandangan maupun *street photography*. Kalau ada event jejepangan, aku terkadang ikut untuk foto-foto *cosplayer* yang ada di sana, tapi seringnya mereka yang cosplay karakter yang serinya aku ikuti.
+
+---
+
+## Kesibukan
+
+Kesibukan utamaku saat ini berkutat pada kegiatan *freelancing*.
+
+### Pinandhita 論理型
+
+Aku banyak mengurusi Pinandhita 論理型, sebuah sirkel/grup/biro penerjemah-*cum*-diskusi yang banyak berfokus kepada komisi konten jejepangan, namun juga terbuka untuk penerjemahan lainnya. Kamu bisa mengakses laman Pinandhita 論理型 di [sini](https://pinandhitaronrigata.my.id). Jabatan paling besar yang aku tampuk sih sebagai pemilik visi sirkel - aku merupakan inisiator utama untuk menggaet kawan-kawan yang menjadi anggota saat ini, sekaligus yang punya visi paling besar seputar mau ngapain aja sirkel ini. Selain itu, aku merangkap sebagai editor, proofreader, dan pengurus presensi internet berupa laman web, laman Facebook, dan akun Twitter/X.
+
+### Freelancing
+
+Saat ini aku sedang berusaha membangun portofolio terkait *freelance* penerjemahan dan penulisan. Bakal aku buatin satu sublaman spesifik untuk ini, tapi gambaran besarnya, yang aku tawarkan adalah jasa **penerjemahan Indonesia-Inggris dan terkait** (seperti proofreading skrip) untuk tulisan *apa saja* (ini bisa ditanyakan di pm); penulisan berupa **copywriting** untuk bisnis, **cerita pendek maupun panjang** (pengembangan ide orisinil ataupun *fanfiction* - aku yakin bisa nulis dari fandom manapun selama diberi waktu untuk riset primer ataupun sekunder). dan **ghostwriting** (sekali lagi, selama diberi waktu untuk riset aku yakin bisa menulis dengan topik dan jenis tulisan apapun); serta **bantuan riset ilmiah** (saat ini hanya terbuka ke bidang soshum dan linguistik).
+
+Selain itu, kamu juga bisa memberi dukungan kepadaku lewat Trakteer, yang dapat diakses di [sini](https://trakteer.id/maulana-md). Akun kreator Trakteer ini awalnya dibuat sebagai cara pembayaran komisi alternatif, tapi setelah kasus HDD rusak kemarin, karena lebih banyak yang ngirim secara anonim, aku putuskan sebagai sarana crowdfunding proyek ataupun dukungan cuma-cuma.
+
+### Scanlation
+
+Ini mencakup *scanlation* selain Pinandhita.
+
+Saat ini, aku aktif terlibat dalam rilisan terjemah Manga ["*Ichizu de Bitch na Kouhai-chan (Pre-Serialization)*"](https://mangadex.org/title/dbdffb51-7817-40af-a090-e6c68f42d7e3/ichizu-bitch-chan), yang diterjemahkan oleh [**Kouhai Scanlations**](https://mangadex.org/group/b25e068a-5363-4f1d-872b-eba5b0224ae9/kouhai-scanlations). Dalam rilisan ini, aku berperan sebagai *Redrawer/Editor* dan *Typesetter*. Aku sudah terlibat dengan *Kouhai* sejak 2021 dalam beberapa Manga, terutama [*Uchi no Kaisha no Chiisai Senpai no Hanashi (Pre-Serialization)*](https://mangadex.org/title/28ed63af-61f8-43af-bac3-762030c72963/uchi-no-kaisha-no-chiisai-senpai-no-hanashi), dan sempat berhenti sementara karena *Kouhai* dibubarkan sementara sekitar awal-pertengahan 2023. Di akhir 2023, aku diajak kembali untuk mengerjakan *Ichizu*, dan segera aku iyakan.
+
+Sebelum itu, aku banyak mengunggah terjemahan gambar *Kantai Collection* dan seri-seri lain di akun utama Facebook, dengan terjemahan yang dicomot dari *danbooru*. Jadi kurang lebih aku cuma modal edit gambar dan pasang tulisan saja.
+
+### Penulisan Cerita
+
+Ini salah satu bucket list yang ingin aku lakukan tapi baru keturutan sekarang. Saat ini aku sedang dalam proses godok cerita sebuah cerita orisinil, kurang lebih dalam format webnovel (bisa berubah menjadi format lain jika memungkinkan atau lebih cocok). Crowdfunding *proof-of-concept*nya bisa dicek di akun Trakteerku. Selain itu, aku juga ingin jago menulis cerita, baik sebagai *fanfiction* maupun cerita orisinil, dan tentunya cara supaya lebih mahir adalah memulai prosesnya terlebih dahulu. Rencananya, akun Trakteerku akan aku gunakan sebagai sarana jual-beli tulisan - kamu bisa mengakses cerita yang telah aku tulis dengan mendukungku di Trakteer. Trakteer, dalam hal ini, lebih sebagai pemicu supaya aku memberi prioritas yang lebih dalam hal penulisan cerita dari yang sebelumnya aku lakukan.
+
+---
+
+## Kontak
+
+Kamu bisa menemukan akun Facebookku di alamat ini: https://www.facebook.com/maulana.m.diansyahbani. Kalau Instagram, bisa buka link ini: https://www.instagram.com/maulana.muhammad.d. Aku lebih aktif di Facebook ketimbang Instagram.
+
+Aku juga punya presensi daring di Fediverse, dengan menggunakan akun misskey.id, yang dapat dicek di sini: https://miskey.id/@thea.
+
+Kalau mau bersua lewat email, silahkan dikirim ke alamat maulanamd@proton.me.
