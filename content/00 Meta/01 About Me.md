@@ -24,6 +24,7 @@ Perkenalkan, namaku Maulana Muhammad Diansyahbani. Kalau ingin menyapa, panggil 
 	2. [[01 About Me#Freelancing|Freelancing]]
 	3. [[01 About Me#Scanlation|Scanlation]]
 	4. [[01 About Me#Penulisan Cerita|Penulisan Cerita]]
+3. [[01 About Me#Kontak|Kontak]]
 
 ---
 
