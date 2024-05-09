@@ -20,6 +20,7 @@ Laman Pinandhita 論理型 (dibaca Ronrigata) sekarang dapat diakses di https://
 
 ## Highlight Artikel Baru
 
+- [[Menyikapi Depresi|Bagaimana Menyikapi Depresi, dan Beberapa Arahan Seputar Bagaimana Mengatasinya]] - Opini dan testimoni singkat seputar bagaimana menyikapi dan menangani depresi.
 - [[Pengingat Untuk Backup|Backup, Backup, Backup!]] - Sebuah pengingat untuk membackup data penting anda, dari anekdot pribadi.
 - [[Sistem Journaling|Sistem Journaling: Dari yang Simpel Hingga yang Rumit]] - Rangkuman bagaimana untuk memulai menjurnal dengan mudah. Intinya, nggak usah dibuat ribet.
 - [[You Can't Put Your Egg into Two Basket at the Same Time]] - Sebuah pengamatan etos atau motto hidup, bahwa fokus satu-per-satu akan target ataupun masalah hidup lebih baik daripada berhenti di tempat.
