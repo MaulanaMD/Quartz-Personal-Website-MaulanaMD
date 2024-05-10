@@ -3,7 +3,14 @@ title: Tentang Saya
 tags:
   - meta
 ---
-![[Foto Memed.webp|350]]
+<p align="center">
+  <a>
+    <img
+    style='height: 50%; width: 50%; object-fit: contain'
+    src="https://maulanamd.my.id/00-Meta/02-Attachments/02.03-Artikel/About-Me/Foto-Memed.webp" />
+  </a>
+</p>
+
 
 Perkenalkan, namaku Maulana Muhammad Diansyahbani. Kalau ingin menyapa, panggil saja Memed. Presensiku di dunia maya bisa dicari dengan nama MMd-, Mei/Amasaki Mei, Thea, ataupun MaulanaMuhammad.
 
