@@ -9,25 +9,6 @@ Perkenalkan, namaku Maulana Muhammad Diansyahbani. Kalau ingin menyapa, panggil 
 
 ---
 
-## Tautan Cepat
-
-1. [[01 About Me#Minat|Minat]]
-	1. [[01 About Me#Linux|Linux]]
-	2. [[01 About Me#Terjemah|Terjemah]]
-	3. [[01 About Me#Jejepangan|Jejepangan]]
-	4. [[01 About Me#Penulisan|Penulisan]]
-	5. [[01 About Me#Psikologi dan Self-Help|Psikologi dan Self-Help]]
-	6. [[01 About Me#Obsidian|Obsidian]]
-	7. [[01 About Me#Hobi dan Minat Lainnya|Hobi dan Minat Lainnya]]
-2. [[01 About Me#Kesibukan|Kesibukan]]
-	1. [[01 About Me#Pinandhita 論理型|Pinandhita 論理型]]
-	2. [[01 About Me#Freelancing|Freelancing]]
-	3. [[01 About Me#Scanlation|Scanlation]]
-	4. [[01 About Me#Penulisan Cerita|Penulisan Cerita]]
-3. [[01 About Me#Kontak|Kontak]]
-
----
-
 ## Minat
 
 Ada banyak topik yang aku minati, beberapa terbawa dari masa kuliah dan sebelumnya, beberapa lagi baru muncul akhir-akhir ini seiring dengan berjalannya hidup.
