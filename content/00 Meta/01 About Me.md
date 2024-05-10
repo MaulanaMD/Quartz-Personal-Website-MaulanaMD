@@ -6,13 +6,15 @@ tags:
 <p align="center">
   <a>
     <img
-    style='height: 50%; width: 50%; object-fit: contain'
+    style='height: 75%;width: 75%; object-fit: contain'
     src="https://maulanamd.my.id/00-Meta/02-Attachments/02.05-Web/About-Me/Foto-Memed.webp" />
   </a>
 </p>
 
 
 Perkenalkan, namaku Maulana Muhammad Diansyahbani. Kalau ingin menyapa, panggil saja Memed. Presensiku di dunia maya bisa dicari dengan nama MMd-, Mei/Amasaki Mei, Thea, ataupun MaulanaMuhammad.
+
+Ini artikel yang lumayan panjang, jadi sangat disarankan untuk mengecek Table of Contents dan memulai navigasi kepada bagian yang menarik.
 
 ---
 
