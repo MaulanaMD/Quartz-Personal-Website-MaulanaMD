@@ -7,7 +7,7 @@ tags:
   <a>
     <img
     style='height: 50%; width: 50%; object-fit: contain'
-    src="https://maulanamd.my.id/00-Meta/02-Attachments/02.03-Artikel/About-Me/Foto-Memed.webp" />
+    src="https://maulanamd.my.id/00-Meta/02-Attachments/02.05-Web/About-Me/Foto-Memed.webp" />
   </a>
 </p>
 
