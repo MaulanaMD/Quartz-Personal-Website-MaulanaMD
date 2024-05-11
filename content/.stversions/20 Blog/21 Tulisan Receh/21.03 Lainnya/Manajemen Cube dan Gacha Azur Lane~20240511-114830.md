@@ -1,5 +1,5 @@
 ---
-title: Manajemen Cube dan Gacha Azur Lane
+title: "[2024.03.06] Manajemen Cube dan Gacha Azur Lane"
 tags:
   - blog/lainnya
   - azur-lane

@@ -1,5 +1,5 @@
 ---
-title: Saya Mencoba Aplikasi Tulis Menulis dan Manajemen Ilmu
+title: "[2023.12.30] Saya Mencoba Aplikasi Tulis Menulis dan Manajemen Ilmu"
 tags:
   - blog/lainnya
   - manajemen-ilmu

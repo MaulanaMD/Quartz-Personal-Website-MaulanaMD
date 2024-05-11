@@ -1,5 +1,5 @@
 ---
-title: Sekarang Sudah Punya Trakteer!
+title: "[2024.04.26] Sekarang Sudah Punya Trakteer!"
 tags:
   - blog
   - trakteer

@@ -1,5 +1,5 @@
 ---
-title: Pindahan Blog dan Portofolio ke Quartz
+title: "[2024.04.23] Pindahan Blog dan Portofolio ke Quartz"
 tags:
   - blog/lainnya
   - quartz

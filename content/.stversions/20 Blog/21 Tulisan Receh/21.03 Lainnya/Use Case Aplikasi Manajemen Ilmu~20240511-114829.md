@@ -1,5 +1,5 @@
 ---
-title: Bagaimana Aku Menggunakan Aplikasi Manajemen Ilmu Saat Ini
+title: "[2024.02.12] Bagaimana Aku Menggunakan Aplikasi Manajemen Ilmu Saat Ini"
 tags:
   - blog/lainnya
   - manajemen-ilmu

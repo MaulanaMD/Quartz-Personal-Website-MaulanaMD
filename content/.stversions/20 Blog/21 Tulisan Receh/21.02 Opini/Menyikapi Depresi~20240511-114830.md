@@ -3,7 +3,6 @@ title: "[2024.05.09] Bagaimana Menyikapi Depresi, dan Beberapa Arahan Seputar Ba
 tags:
   - opini
   - kesehatan-mental
-  - self-help
 ---
 ![[Banner Thumbs Up.webp]]
 

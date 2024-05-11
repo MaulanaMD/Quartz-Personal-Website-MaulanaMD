@@ -3,7 +3,6 @@ title: "[2024.04.25] You Can't Put Your Egg Into Two Basket at the Same Time"
 tags:
   - "#blog/lainnya"
   - etos-hidup
-  - self-help
 ---
 ![[IMG_20240425_113315.webp]]
 > Ga punya foto bagus buat artikel ini, jadi difoto saja lah meja waktu ngerjakan artikel ini.
