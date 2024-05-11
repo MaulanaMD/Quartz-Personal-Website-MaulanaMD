@@ -1,5 +1,5 @@
 ---
-title: "[2024.05.09] Bagaimana Menyikapi Depresi, dan Beberapa Arahan Seputar Bagaimana Mengatasinya"
+title: Bagaimana Menyikapi Depresi, dan Beberapa Arahan Seputar Bagaimana Mengatasinya
 tags:
   - opini
   - kesehatan-mental

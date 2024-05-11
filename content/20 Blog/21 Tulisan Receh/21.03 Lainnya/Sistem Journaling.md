@@ -1,9 +1,9 @@
 ---
+title: "Sistem Journaling: Dari yang Simpel Hingga yang Rumit"
 tags:
   - blog/lainnya
   - journal
   - self-help
-title: "Sistem Journaling: Dari yang Simpel Hingga yang Rumit"
 ---
 ![[banner sistem journal.webp]]
 
