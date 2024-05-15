@@ -1,5 +1,5 @@
 ---
-title: "[Conference Paper] Transplanting Asian Mobile Game Consumer Values Onto Western Audiences: The Case of Fate/Grand Order"
+title: "[Conference Paper] 9th ICADA 2020"
 tags:
   - publication
   - research
@@ -8,7 +8,9 @@ tags:
 
 Saya pernah membuat paper sewaktu kuliah S1 dulu, untuk entri *Full Paper Presentation* dalam konferensi *9th ICADA 2020-SSIS* (nama lengkap konferensi bisa dilihat di banner artikel) dengan tema konferensi *"Development toward Asianization in the Digital Era"*. Saya dan kawan-kawan mengambil spesifikasi topik seputar *Asian Values*, dan menghasilkan paper dengan judul yang menjadi judul artikel ini. Konsiderasi pemilihan judul ini salah satunya adalah untuk memasukkan unsur Hubungan Internasional yang menjadi jurusan kuliah kami semua, sehingga tidak terlalu asing dalam mempelajari dan menerapkan konsep-konsep yang diperlukan untuk menulis paper.
 
-Anggota lengkap yang menulis paper ini adalah (ditulis berdasarkan abjad):
+Judul lengkap dari publikasi ini adalah ***"Transplanting Asian Mobile Game Consumer Values on Western Audiences: The Case of Fate/Grand Order.***
+
+Anggota lengkap penulis paper ini adalah (diurutkan berdasarkan abjad):
 
 1. Abima Rahmat Aldi Febriatama *(Undergraduate Student Universitas Airlangga)*;
 2. Bramantyo Pandhito Bayu Sabrang *(Undergraduate Student Universitas Airlangga)*;
