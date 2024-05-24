@@ -1,0 +1,5 @@
+---
+tags:
+  - pemikiran
+draft: "true"
+---

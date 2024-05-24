@@ -10,7 +10,7 @@ Salah satu pemahaman yang aku dapatkan dari bangku kuliah Sosial-Humaniora adala
 
 Belum tentu, memang, dimensi yang mereka bawa benar-benar berbeda satu sama lain sampai terasa acak - tapi beberapa orang yang aku kenal hingga terasa 'wah' memang seperti ini, punya minat dan hobi yang rasanya nggak berhubungan satu sama lain secara sekilas - tapi harusnya pemahaman ini masih bisa diterapkan. Seperti batu yang dipoles hingga keluar berbagai macam bentuk dan polanya, ada yang berbentuk seperti batu kali yang masih bisa dibentuk menjadi alat batu prasejarah, ada pula yang berbentuk mineral dengan fisik yang jelas membuat mata tercengang, "buset, bisa seperti ini, ya".
 
-Hal yang sama juga bisa diaplikasikan ke diri sendiri, terlepas dari bagaimana bentuk rupa yang kita bayangkan sendiri. [[Penerimaan|Menerima]] bahwa hal ini adalah hal yang sebenarnya bagi kita, buatku adalah salah satu langkah yang bagus diaplikasikan kalau kamu merasa dirimu terlalu membosankan atau kamu punya *self-esteem* yang cukup rendah.
+Hal yang sama juga bisa diaplikasikan ke diri sendiri, terlepas dari bagaimana bentuk rupa yang kita bayangkan sendiri. [[nrimo|Menerima]] bahwa hal ini adalah hal yang sebenarnya bagi kita, buatku adalah salah satu langkah yang bagus diaplikasikan kalau kamu merasa dirimu terlalu membosankan atau kamu punya *self-esteem* yang cukup rendah.
 
 ---
 
