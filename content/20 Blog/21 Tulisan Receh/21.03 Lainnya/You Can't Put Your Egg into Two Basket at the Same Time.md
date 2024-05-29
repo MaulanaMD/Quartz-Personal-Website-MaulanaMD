@@ -5,7 +5,7 @@ tags:
   - etos-hidup
   - self-help
 ---
-![[IMG_20240425_113315.webp]]
+![[Banner Telur.webp]]
 > Ga punya foto bagus buat artikel ini, jadi difoto saja lah meja waktu ngerjakan artikel ini.
 
 Ini berkaitan dengan motto? etos? hidup yang baru terpikir sebagai suatu hal yang konkrit buatku akhir-akhir ini.

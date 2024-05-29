@@ -5,7 +5,7 @@ tags:
   - journal
   - self-help
 ---
-![[banner sistem journal.webp]]
+![[Banner Sistem Journal.webp]]
 
 Ada dua hal yang membuatku ingin menulis soal sistem journaling. Impetus utamanya sih post ufal seputar gimana dia sekarang menggunakan bullet journaling yang bisa dibaca [di sini](https://blog.ufal.my.id/artikel/bullet-journaling/). Selain itu, ada perubahan yang cukup berarti dari sistem journaling/tasking yang aku pakai sekarang, to the point sampai bisa dibuatkan artikel baru. Detail dari bagaimana perubahan itu bakal dimasukkan ke addendum artikel [[Use Case Aplikasi Manajemen Ilmu|Bagaimana Aku Menggunakan Aplikasi Manajemen Ilmu Saat Ini]].
 
