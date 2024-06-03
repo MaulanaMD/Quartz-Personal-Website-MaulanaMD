@@ -92,6 +92,6 @@ Aku menerima pembayaran kepada rekening Mandiri, Jago, dan BCA. Nomor rekening a
 
 ### Kontak
 
-Silahkan berkabar lewat Facebook pribadi saya, [Maulana Muhammad Diansyahbani](https://www.facebook.com/maulana.m.diansyahbani), atau melalui e-mail di `maulanamd@proton.me`. Silahkan menghubungi jika ada pertanyaan terkait komisi, ataupun bertanya-tanya kecil.
+Silahkan berkabar lewat Facebook pribadi, [Maulana Muhammad Diansyahbani](https://www.facebook.com/maulana.m.diansyahbani), atau melalui e-mail di `maulanamd@proton.me`. Metode kontak lain juga tersedia di [[01.01 Tentang Saya#Kontak]], meskipun lebih jarang dicek. Silahkan menghubungi jika ada pertanyaan terkait komisi, ataupun bertanya-tanya kecil.
 
-Kedepannya mungkin akan aku buatkan form digital untuk mempermudah proses komisi.
+Kedepannya mungkin akan dibuatkan form digital untuk mempermudah proses komisi.
