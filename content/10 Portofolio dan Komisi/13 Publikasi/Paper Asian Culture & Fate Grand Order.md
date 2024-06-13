@@ -1,8 +1,8 @@
 ---
 title: "[Conference Paper] 9th ICADA 2020"
 tags:
-  - publication
-  - research
+  - publikasi
+  - riset
 ---
 ![[Porto-ICADA Paper.jpg]]
 
