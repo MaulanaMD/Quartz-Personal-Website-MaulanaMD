@@ -1,3 +1,9 @@
+---
+tags:
+  - sintesis
+  - catatan
+---
+
 ### Pointers
 
 Arkeologi Foucault sebagai *Archeology of Thoughts* - bukan mencari tahu **apa** ataupun **bagaimana** pemikiran tertentu bisa terbentuk (konsekuensinya bisa mencari tahu secara deskriptif ataupun kepada pemikiran dari *tokoh* yang membentuk atau mencetuskan pemikiran tersebut), tetapi kepada ***apa saja yang membentuk*** kondisi yang kemudian menghasilkan pemikiran tersebut
